@@ -13,9 +13,11 @@ public class 영화감독숌_최종 {
             cnt++;
 
             String temp = String.valueOf(cnt);
+            System.out.println("temp: " + temp);
 
             if (temp.contains("666")) {
                 n--;
+                System.out.println("n: " +  n);
             }
         }
 
