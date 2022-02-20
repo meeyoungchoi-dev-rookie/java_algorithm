@@ -180,3 +180,13 @@
 + + 같지 않으면 N이 666을 포함하고 있는지 검사한다
  + + 포함하면 cnt를 1씩 증가시킨다
   + + 근데 N은 왜 증가시켜야 하는가?...
+  
+
+
+# 02월 20일
+## 잘된점
++ 백준 배열 관련 알고리즘 2문제 풀고 정리
+
+## 배운점
++ [백준 최소,최대 풀이과정 정리 및 회고](https://unique-wandflower-4cc.notion.site/_-7aa755e505804299a82b3aca0e1d24ed)
++ [백준_최댓값 풀이과정 정리 및 회고](https://unique-wandflower-4cc.notion.site/_-_-f01a915fabb64e09914f59bcf37d02de)
