@@ -190,3 +190,12 @@
 ## 배운점
 + [백준 최소,최대 풀이과정 정리 및 회고](https://unique-wandflower-4cc.notion.site/_-7aa755e505804299a82b3aca0e1d24ed)
 + [백준_최댓값 풀이과정 정리 및 회고](https://unique-wandflower-4cc.notion.site/_-_-f01a915fabb64e09914f59bcf37d02de)
+
+
+
+# 02월 21일
+### 잘된점
++ 백준 정렬 관련 알고리즘 한문제 풀고 정리
+
+## 배운점
++ [백준 수정렬하기 풀이과정 정리](https://unique-wandflower-4cc.notion.site/1d74ffbd838c42bd81a732eaabb1c406)
