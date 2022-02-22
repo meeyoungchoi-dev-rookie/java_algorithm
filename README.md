@@ -199,3 +199,21 @@
 
 ## 배운점
 + [백준 수정렬하기 풀이과정 정리](https://unique-wandflower-4cc.notion.site/1d74ffbd838c42bd81a732eaabb1c406)
+
+
+# 02월 22일
+### 잘된점
++ 백준 정렬 관련 알고리즘 한문제 풀고 정리
++ 백준 배열 관련 알고리즘 한문제 풀고 정리
+## 배운점
++ [백준 수정렬하기2 풀이과정 정리](https://unique-wandflower-4cc.notion.site/2-3db098ff2e8244e6be1f868aed523d4b)
++ 시간복잡도에 대해 고민했다
++ 배열에 숫자를 입력받지 않고 ArrayList를 사용했다
++ StringBuilder 클래스를 사용하여 문자열이 지속적으로 변경되는 경우 불필요한 String 객체가 생기는 것을 막았다
+  + 왜? 프로그램 성능이 저하될 수 있기 때문
+---
++ [백준 숫자의개수 풀이과정 정리](https://unique-wandflower-4cc.notion.site/_-dbf95db5ea64451babc324d6fc67d9b6)
++ 숫자 3개의 곱 결과에 0 부터 9까지 숫자가 몇번 들어가 있는지 카운팅 한다
++ 숫자데이터를 String으로 변환하고 char 타입의 배열로 만든다
++ 2중 반복문을 사용하여 배열에서 데이터를 꺼내 0 부터 9까지 숫자와 일치하는 경우 카운팅한다
++ 숫자끼리 비교하기 위해 charArray[j] - '0'을 사용하였다
