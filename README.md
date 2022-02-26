@@ -247,3 +247,10 @@
 + 정렬관련 알고리즘 한문제 풀고 정리
 ### 배운점
 + [소트인사이트 풀이과정](https://unique-wandflower-4cc.notion.site/_-e0e9ba4d3da44d63b13f98e87e595091)
+
+# 02월 26일
+## 백준 알고리즘 배열
+### 잘된점
++ 배열관련 알고리즘 한문제 풀고 정리
+### 배운점
++ [평균 풀이과정](https://unique-wandflower-4cc.notion.site/_-c14a52a0536045ef86feab4cccb04410)
