@@ -274,3 +274,12 @@
 
 ### 배운점
 + [백준_아스키코드 풀이과정](https://unique-wandflower-4cc.notion.site/_-35186204742a4b58a46f2b4d0a6c069e)
+
+
+# 03월 05일
+## 자바 알고리즘
+### 잘된점
++ 백준 문자열 숫자의 합 문제 풀고 정리
+
+### 배운점
++ [백준_숫자의합 풀이과정](https://unique-wandflower-4cc.notion.site/cb12561bfc0946639e5728017ce73dea)
