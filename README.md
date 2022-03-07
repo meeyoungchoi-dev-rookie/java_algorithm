@@ -283,3 +283,14 @@
 
 ### 배운점
 + [백준_숫자의합 풀이과정](https://unique-wandflower-4cc.notion.site/cb12561bfc0946639e5728017ce73dea)
+
+
+# 03월 07일
+## 자바 알고리즘
+### 잘된점
++ 문자열 대소문자 변환 문제 풀고 정리
++ 백준 숫자의 합 문제 다른 방법으로 풀이
+
+### 배운점
++ [문자열 대소문자 변환](https://unique-wandflower-4cc.notion.site/9ec81f7196cf4bbebd347d8fe83528e2)
++ [백준_숫자의합](https://unique-wandflower-4cc.notion.site/cb12561bfc0946639e5728017ce73dea)
