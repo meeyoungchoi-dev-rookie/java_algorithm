@@ -314,3 +314,13 @@
 
 ### 배운점
 + [단어 뒤집기](https://unique-wandflower-4cc.notion.site/d40ac1b645f44cc6838f25b452754155)
+
+
+# 03월 10일
+## 자바 알고리즘
+### 잘된점
++ 문자열 관련 두문제 폴고 정리
+
+### 배운점
++ [특정 문자 뒤집기](https://unique-wandflower-4cc.notion.site/bf710d0ee1344f21a7a7d1ab1a329c3d)
++ [중복 문자 제거](https://unique-wandflower-4cc.notion.site/8ee4e282296440bc97170ece6ed98b95)
