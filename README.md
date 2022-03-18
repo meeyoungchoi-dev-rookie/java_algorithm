@@ -1,11 +1,11 @@
 # 자바관련 알고리즘 문제를 하루에 한문제씩 풀고 정리하는 레파지토리
 
 ## 문자열
-+ [문자열 압축]
-+ [대소문자 변환]
-+ [숫자만 추출]
-+ [가장 짧은 문자거리]
-+ [보이는 학생 수]
++ [문자열 압축](https://unique-wandflower-4cc.notion.site/34d04fe0d1d54b2eb6c59819e54f3b1c)
++ [대소문자 변환](https://unique-wandflower-4cc.notion.site/9ec81f7196cf4bbebd347d8fe83528e2)
++ [숫자만 추출](https://unique-wandflower-4cc.notion.site/ce4d92318efd49998e4714f75b696ee9)
++ [가장 짧은 문자거리](https://unique-wandflower-4cc.notion.site/0f47bdf062c24142aba9460711fe5da2)
++ [보이는 학생 수](https://unique-wandflower-4cc.notion.site/b9cf2b330eda45db84da0c0a192357d3)
 + [큰수 출력하기]
 + [문장 속 단어]
 + [단어 뒤집기]
@@ -17,6 +17,7 @@
 + [백준_숫자의합]
 + [프로그래머스_정수 내림차순으로 배치하기]
 + [숫자만 추출2]
++ [가장 짧은 문자거리 복습](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86)
 
 
 
@@ -383,3 +384,10 @@
 + 문자열 관련 한문제 풀고 정리
 ### 배운점
 + [숫자만추출 다른 방식으로 풀어보기](https://unique-wandflower-4cc.notion.site/ce4d92318efd49998e4714f75b696ee9)
+
+# 3월 17일
+## 자바 알고리즘
+### 잘된점
++ 문자열 관련 한문제 풀고 정리
+### 배운점
++ [가장 짧은 문자 거리](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86)
