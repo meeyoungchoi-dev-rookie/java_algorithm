@@ -18,7 +18,7 @@
 + [프로그래머스_정수 내림차순으로 배치하기]
 + [숫자만 추출2]
 + [가장 짧은 문자거리 복습](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86)
-
++ [문자열 압축 복습](https://unique-wandflower-4cc.notion.site/5f73e5f7869f43d3816cbc9643c7efd8)
 
 
 
@@ -391,3 +391,15 @@
 + 문자열 관련 한문제 풀고 정리
 ### 배운점
 + [가장 짧은 문자 거리](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86)
+
+# 3월 18일
+## 자바 알고리즘
+### 잘된점
++ 문자열 관련 한문제 풀고 정리
+### 배운점
++ [문자열 압축 복습](# 3월 17일
+## 자바 알고리즘
+### 잘된점
++ 문자열 관련 한문제 풀고 정리
+### 배운점
++ [가장 짧은 문자 거리](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86))
