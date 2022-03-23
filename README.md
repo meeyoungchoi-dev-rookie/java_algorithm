@@ -34,6 +34,7 @@
 + [백준_숫자의 개수]
 + [백준_평균]
 + [백준_OX퀴즈]
++ [큰 수 출력](https://unique-wandflower-4cc.notion.site/c9d23243d1034b22b394955ed70bb2d0)
 
 
 ## 정렬
