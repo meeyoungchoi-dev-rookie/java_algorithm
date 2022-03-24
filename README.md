@@ -23,6 +23,7 @@
 
 
 ## 배열
++ [공통 원소 구하기](https://unique-wandflower-4cc.notion.site/5095c4a556a34617a7f063df7e017a1b)
 + [소수]
 + [뒤집은 소수]
 + [점수 계산]
@@ -35,6 +36,7 @@
 + [백준_평균]
 + [백준_OX퀴즈]
 + [큰 수 출력](https://unique-wandflower-4cc.notion.site/c9d23243d1034b22b394955ed70bb2d0)
+
 
 
 ## 정렬
