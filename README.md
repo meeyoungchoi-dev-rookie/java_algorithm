@@ -5,7 +5,6 @@
 + [대소문자 변환](https://unique-wandflower-4cc.notion.site/9ec81f7196cf4bbebd347d8fe83528e2)
 + [숫자만 추출](https://unique-wandflower-4cc.notion.site/ce4d92318efd49998e4714f75b696ee9)
 + [가장 짧은 문자거리](https://unique-wandflower-4cc.notion.site/0f47bdf062c24142aba9460711fe5da2)
-+ [보이는 학생 수](https://unique-wandflower-4cc.notion.site/b9cf2b330eda45db84da0c0a192357d3)
 + [큰수 출력하기]
 + [문장 속 단어]
 + [단어 뒤집기]
@@ -19,11 +18,12 @@
 + [숫자만 추출2]
 + [가장 짧은 문자거리 복습](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86)
 + [문자열 압축 복습](https://unique-wandflower-4cc.notion.site/5f73e5f7869f43d3816cbc9643c7efd8)
-
++
 
 
 ## 배열
 + [공통 원소 구하기](https://unique-wandflower-4cc.notion.site/5095c4a556a34617a7f063df7e017a1b)
++ [보이는 학생수](https://unique-wandflower-4cc.notion.site/efcbc6deb6d9485b8cb6d6a7a5c00bfa)
 + [소수]
 + [뒤집은 소수]
 + [점수 계산]
@@ -36,7 +36,7 @@
 + [백준_평균]
 + [백준_OX퀴즈]
 + [큰 수 출력](https://unique-wandflower-4cc.notion.site/c9d23243d1034b22b394955ed70bb2d0)
-
++ [피보나치 수열](https://unique-wandflower-4cc.notion.site/1450a8b55b5d42d9b274fbc4754f5118)
 
 
 ## 정렬
