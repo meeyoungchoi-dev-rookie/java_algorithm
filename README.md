@@ -5,17 +5,16 @@
 + [대소문자 변환](https://unique-wandflower-4cc.notion.site/9ec81f7196cf4bbebd347d8fe83528e2)
 + [숫자만 추출](https://unique-wandflower-4cc.notion.site/ce4d92318efd49998e4714f75b696ee9)
 + [가장 짧은 문자거리](https://unique-wandflower-4cc.notion.site/0f47bdf062c24142aba9460711fe5da2)
-+ [큰수 출력하기]
-+ [문장 속 단어]
-+ [단어 뒤집기]
-+ [특정 문자 뒤집기]
-+ [중복 문자 제거]
-+ [회문 문자열]
-+ [유효한 팰린드롬]
-+ [백준_아스키코드]
-+ [백준_숫자의합]
-+ [프로그래머스_정수 내림차순으로 배치하기]
-+ [숫자만 추출2]
++ [큰수 출력하기](https://www.notion.so/e6c48a47b0a54715b8ce0e3067e766f7)
++ [문장 속 단어](https://unique-wandflower-4cc.notion.site/ebff02a3cc6d44f6ad3ed173b1c340dd)
++ [단어 뒤집기](https://unique-wandflower-4cc.notion.site/d40ac1b645f44cc6838f25b452754155)
++ [특정 문자 뒤집기](https://unique-wandflower-4cc.notion.site/bf710d0ee1344f21a7a7d1ab1a329c3d)
++ [중복 문자 제거](https://unique-wandflower-4cc.notion.site/8ee4e282296440bc97170ece6ed98b95)
++ [회문 문자열](https://unique-wandflower-4cc.notion.site/9ecb494290d941dab357b480398e9e17)
++ [유효한 팰린드롬](https://unique-wandflower-4cc.notion.site/a69802907f6d4cbdad0f40a909aa6a0f)
++ [백준_아스키코드](https://www.notion.so/_-35186204742a4b58a46f2b4d0a6c069e)
++ [백준_숫자의합](https://unique-wandflower-4cc.notion.site/cb12561bfc0946639e5728017ce73dea)
++ [프로그래머스_정수 내림차순으로 배치하기](https://unique-wandflower-4cc.notion.site/_-9c88616a3e5645c7a8920c5d7f4674fc)
 + [가장 짧은 문자거리 복습](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86)
 + [문자열 압축 복습](https://unique-wandflower-4cc.notion.site/5f73e5f7869f43d3816cbc9643c7efd8)
 +
@@ -24,7 +23,7 @@
 ## 배열
 + [공통 원소 구하기](https://unique-wandflower-4cc.notion.site/5095c4a556a34617a7f063df7e017a1b)
 + [보이는 학생수](https://unique-wandflower-4cc.notion.site/efcbc6deb6d9485b8cb6d6a7a5c00bfa)
-+ [소수]
++ [에라토스테네스 체](https://unique-wandflower-4cc.notion.site/ee96f9db88f5431cac1b8aa57d2870a2)
 + [뒤집은 소수]
 + [점수 계산]
 + [가위바위보]
