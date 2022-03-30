@@ -22,7 +22,10 @@ public class 유효한팰린드롬 {
         // 대문자로 변환
         String upperCase = sentence.toUpperCase();
          sb = new StringBuffer(upperCase);
-         if (upperCase.equals(sb.reverse().toString())) {
+        System.out.println("대문자 변환후: " + upperCase.toString());
+        String reverse = sb.reverse().toString();
+        System.out.println("뒤집은 문자열: " + reverse);
+         if (upperCase.equals(reverse)) {
              System.out.println("YES");
          } else {
              System.out.println("NO");

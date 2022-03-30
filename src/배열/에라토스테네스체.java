@@ -16,6 +16,7 @@ public class 에라토스테네스체 {
             num += 1;
         }
 
+        // 시간복잡도 1씩 늘어나니까 n제곱
         int count = 0;
         for (int i = 0; i < array.length; i++) {
             if (array[i] != 1) {
@@ -27,6 +28,7 @@ public class 에라토스테네스체 {
                 }
 
                 if (array[i] != 0) {
+                    System.out.println(array[i]);
                     count += 1;
                 }
             }
