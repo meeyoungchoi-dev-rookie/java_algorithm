@@ -4,12 +4,10 @@ import java.util.Scanner;
 
 public class 뒤집은소수복습 {
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
         String[] array = new String[n];
-
         StringBuffer sb = null;
 
         int[] numbers = new int[n];
@@ -20,13 +18,6 @@ public class 뒤집은소수복습 {
             sb = new StringBuffer(array[i]).reverse();
             numbers[i] = Integer.parseInt(sb.toString());
         }
-
-        for (Integer reverseNum : numbers) {
-            System.out.print(reverseNum + " ");
-        }
-
-        System.out.println();
-
 
         for (int j = 0; j < numbers.length; j++) {
             int cnt = 0;
@@ -41,11 +32,6 @@ public class 뒤집은소수복습 {
                     System.out.print(numbers[j] + " ");
                 }
             }
-
         }
-
-
-
-
     }
 }

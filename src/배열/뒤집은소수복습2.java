@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class 뒤집은소수복습2 {
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
 
@@ -20,7 +19,6 @@ public class 뒤집은소수복습2 {
                 int t = temp % 10;
                 res = res * 10 + t;
                 temp = temp / 10;
-
             }
 
             temp = res;
@@ -41,7 +39,6 @@ public class 뒤집은소수복습2 {
                     System.out.print(array[j] + " ");
                 }
             }
-
         }
     }
 }
