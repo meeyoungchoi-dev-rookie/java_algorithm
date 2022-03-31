@@ -25,7 +25,7 @@
 + [보이는 학생수](https://unique-wandflower-4cc.notion.site/efcbc6deb6d9485b8cb6d6a7a5c00bfa)
 + [에라토스테네스 체](https://unique-wandflower-4cc.notion.site/ee96f9db88f5431cac1b8aa57d2870a2)
 + [뒤집은 소수](https://unique-wandflower-4cc.notion.site/35d27eaf199a45f79109a1a9ba75d4bd)
-+ [점수 계산]
++ [점수 계산 복습](https://unique-wandflower-4cc.notion.site/3e02fce6fe0f4b8394d91b1dbbc081b9)
 + [가위바위보]
 + [격자판 최대합]
 + [봉우리]
