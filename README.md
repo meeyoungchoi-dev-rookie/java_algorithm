@@ -36,7 +36,7 @@
 + [백준_OX퀴즈]
 + [큰 수 출력](https://unique-wandflower-4cc.notion.site/c9d23243d1034b22b394955ed70bb2d0)
 + [피보나치 수열](https://unique-wandflower-4cc.notion.site/1450a8b55b5d42d9b274fbc4754f5118)
-
++ [등수 구하기](https://unique-wandflower-4cc.notion.site/a0c7febacc534031914541c542bc04fd)
 
 ## 정렬
 + [수정렬하기]
