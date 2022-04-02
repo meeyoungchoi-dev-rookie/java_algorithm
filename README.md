@@ -27,7 +27,7 @@
 + [뒤집은 소수](https://unique-wandflower-4cc.notion.site/35d27eaf199a45f79109a1a9ba75d4bd)
 + [점수 계산 복습](https://unique-wandflower-4cc.notion.site/3e02fce6fe0f4b8394d91b1dbbc081b9)
 + [가위바위보]
-+ [격자판 최대합]
++ [격자판 최대합](https://unique-wandflower-4cc.notion.site/77b13425484d4dd9bc7cb79728206cb8)
 + [봉우리]
 + [백준-최소,최대]
 + [백준_배열_최댓값]
