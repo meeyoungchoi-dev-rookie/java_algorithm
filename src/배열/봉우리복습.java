@@ -23,12 +23,12 @@ public class 봉우리복습 {
 
         int result = 0;
 
-        for (int j = 0; j < n; j++) {
+        for (int j = 0; j < n; j++) { // 0 ,0
             for (int i = 0; i < n; i++) {
                boolean status = true;
                 for (int k = 0; k < x.length; k++) {
-                    int dx = i + x[k];
-                    int dy = j + y[k];
+                    int dx = i + x[k];//0 + x[0] => 0 + -1 => -1
+                    int dy = j + y[k];//0 + y[0] => 0 + 0 => 0
                     if (dx >= 0 && dx < n && dy < n && dy >= 0 && array[dx][dy] >= array[i][j]) {
                         status = false;
                         break;
