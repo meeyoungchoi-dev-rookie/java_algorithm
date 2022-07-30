@@ -17,7 +17,7 @@
 + [프로그래머스_정수 내림차순으로 배치하기](https://unique-wandflower-4cc.notion.site/_-9c88616a3e5645c7a8920c5d7f4674fc)
 + [가장 짧은 문자거리 복습](https://unique-wandflower-4cc.notion.site/3e6736dececb415b84e54ec91db36d86)
 + [문자열 압축 복습](https://unique-wandflower-4cc.notion.site/5f73e5f7869f43d3816cbc9643c7efd8)
-+
+
 
 
 ## 배열
@@ -57,6 +57,7 @@
 + [o] 행렬의 덧셈
 + [o] 평균 구하기
 + [o] 하샤드 수
++ [o] 정수 제곱근 판별
 
 
 # 02월 08일
